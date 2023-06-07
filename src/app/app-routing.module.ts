@@ -10,10 +10,10 @@ const routes: Routes = [
     path: 'criar-pensamento',
     component: CriarPensamentoComponent
   },
-  // {
-  //   path: 'listar-pensamento',
-  //   component: ListarPensamentoComponent
-  // },
+  {
+    path: 'listar-pensamento',
+    component: ListarPensamentoComponent
+  },
   // {
   //   path: 'pensamentos/editar-pensamento/:id',
   //   component: EditarPensamentoComponent
@@ -22,11 +22,11 @@ const routes: Routes = [
   //   path: 'pensamentos/excluir-pensamento/:id',
   //   component: ExcluirPensamentoComponent
   // },
-  // {
-  //   path: '',
-  //   redirectTo: 'listar-pensamento',
-  //   pathMatch: 'full'
-  // }
+  {
+    path: '',
+    redirectTo: 'listar-pensamento',
+    pathMatch: 'full'
+  }
 ];
 
 @NgModule({
