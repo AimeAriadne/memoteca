@@ -21,8 +21,8 @@ import { EditarPensamentoComponent } from './components/pensamentos/editar-pensa
     CriarPensamentoComponent,
     ListarPensamentoComponent,
     PensamentoComponent,
-    // ExcluirPensamentoComponent,
-    // EditarPensamentoComponent,
+    ExcluirPensamentoComponent,
+    EditarPensamentoComponent,
   ],
   imports: [
     BrowserModule,

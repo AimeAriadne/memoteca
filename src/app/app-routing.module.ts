@@ -14,14 +14,14 @@ const routes: Routes = [
     path: 'listar-pensamento',
     component: ListarPensamentoComponent
   },
-  // {
-  //   path: 'pensamentos/editar-pensamento/:id',
-  //   component: EditarPensamentoComponent
-  // },
-  // {
-  //   path: 'pensamentos/excluir-pensamento/:id',
-  //   component: ExcluirPensamentoComponent
-  // },
+  {
+    path: 'pensamentos/editar-pensamento/:id',
+    component: EditarPensamentoComponent
+  },
+  {
+    path: 'pensamentos/excluir-pensamento/:id',
+    component: ExcluirPensamentoComponent
+  },
   {
     path: '',
     redirectTo: 'listar-pensamento',
