@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que voce veio",
+      "autoria": "Amy",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "I want auroras and sad prose I want to watch wisteria grow right over my bare feet 'Cause I haven't moved in years And I want you right here A red rose grew up out of ice frozen ground With no one around to tweet it While I bathe in cliffside pools With my calamitous love and insurmountable grief",
+      "autoria": "Taylor Swift",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "One child, one teacher, one pen, and one book can change the world.",
+      "autoria": "Malala Yousafzai",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "Honestly, can you believe We crossed the world while it's asleep? I'd never trade it in, 'cause I've always wanted this And it's not a dream anymore No, it's not a dream anymore It's worth fighting for",
+      "autoria": "Paramore",
+      "modelo": "modelo1",
+      "id": 6
+    }
+  ]
+}
